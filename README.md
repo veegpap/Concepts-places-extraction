@@ -11,9 +11,9 @@ The annotation process was carried out using Stanford CoreNLP 4.2.0 jar files th
 
 Folder "GEOTHNK network" includes a directed graph of spatial concepts alongside a visualization example through the package "visNetwork".
 
-Folder "Extraction process" includes a minimum working R process in order to detect and extract spatial concepts from each text.
+File "Extraction process.R" includes a minimum working R process in order to detect and extract spatial concepts fron the GEOTHNK network from each text.
 
-Session info :
-R version 4.0.5 (2021-03-31)
-Platform: x86_64-pc-linux-gnu (64-bit)
-Running under: Ubuntu 20.04.2 LTS
+Session info :<br/>
+R version 4.0.5 (2021-03-31)<br/>
+Platform: x86_64-pc-linux-gnu (64-bit)<br/>
+Running under: Ubuntu 20.04.2 LTS<br/>
