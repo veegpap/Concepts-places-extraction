@@ -1,0 +1,9 @@
+The equator is the largest circle of latitude on Earth. The equator divides the earth into the Northern and Southern
+Hemispheres and is called 0 degrees latitude. The other lines of latitude are numbered from 0 to 90 degrees going
+toward each of the poles. The lines north of the equator toward the North Pole are north latitude, and each of the
+numbers is followed by the letter “N.” The lines south of the equator toward the South Pole are south latitude,
+and each of the numbers is followed by the letter “S.” The equator (0 latitude) is the only line of latitude without
+any letter following the number. Notice that all lines of latitude are parallel to the equator (they are often called
+parallels) and that the North Pole equals 90 degrees N and the South Pole equals 90 degrees S. Noted parallels
+include both the Tropic of Cancer and the Tropic of Capricorn, which are 23.5 degrees from the equator. At 66.5
+degrees from the equator are the Arctic Circle and the Antarctic Circle near the North and South Pole, respectively.

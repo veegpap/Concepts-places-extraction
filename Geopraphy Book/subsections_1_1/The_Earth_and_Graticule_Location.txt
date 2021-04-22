@@ -1,0 +1,17 @@
+When identifying a region or location on the earth, the first step is to understand its relative and absolute locations.
+Relative location is the location on the earth’s surface with reference to other places, taking into consideration
+features such as transportation access or terrain. Relative location helps one compare the advantages of one 
+location with those of another. Absolute location, on the other hand, refers to an exact point on the earth’s surface
+without regard to how that point is related to any other place. Absolute location is vital to the cartographic process
+and to human activities that require an agreed-upon method of identifying a place or point.
+
+Just as you were taught in geometry that there are 360 degrees in a circle or a sphere, the earth also has 360
+degrees, and they are measured using a grid pattern called the graticule. Lines of latitude and longitude allow any
+absolute location on the earth to have an identifiable address of degrees north or south and east or west, which
+allows geographers to accurately locate, measure, and study spatial activity.
+
+Geographers and cartographers organize locations on the earth using a series of imaginary lines that encircle the
+globe. The two primary lines are the equator and the prime meridian. From these lines, the systems of longitude
+and latitude are formed, allowing you to locate yourself anywhere on the planet. The line is the longest when you
+travel along in an east-west direction. At the equator, the sun is directly overhead at noon on the two equinoxes,
+which occur in March and September.

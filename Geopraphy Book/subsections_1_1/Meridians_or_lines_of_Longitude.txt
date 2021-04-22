@@ -1,0 +1,12 @@
+The prime meridian sits at 0 degrees longitude and divides the earth into the Eastern and Western Hemispheres.
+The prime meridian is defined as an imaginary line that runs through the Royal Observatory in Greenwich,
+England, a suburb of London. The Eastern Hemisphere includes the continents of Europe, Asia, and Australia,
+while the Western Hemisphere includes North and South America. All meridians (lines of longitude) east of the
+prime meridian (0 and 180) are numbered from 1 to 180 degrees east (E); the lines west of the prime meridian (0
+and 180) are numbered from 1 to 180 degrees west (W). The 0 and 180 lines do not have a letter attached to them.
+The meridian at 180 degrees is called the International Date Line. The International Date Line (180 degrees
+longitude) is opposite the prime meridian and indicates the start of each day (Monday, Tuesday, etc.). Each day
+officially starts at 12:01 a.m., at the International Date Line. Do not confuse the International Date Line with the
+prime meridian (0 longitude). The actual International Date Line does not follow the 180-degree meridian exactly.
+A number of alterations have been made to the International Date Line to accommodate political agreements to
+include an island or country on one side of the line or another.

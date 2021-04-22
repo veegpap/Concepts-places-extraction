@@ -1,0 +1,26 @@
+Universal Time (UT), Coordinated Universal Time (UTC), Greenwich Mean Time (GMT), or Zulu Time (Z): all
+four terms can be defined as local time at 0 degrees longitude, which is the prime meridian (location of Greenwich,
+England). This is the same time under which many military operations, international radio broadcasts, and air
+traffic control systems operate worldwide. UTC is set in zero- to twenty-four-hour time periods, as opposed to two
+twelve-hour time periods (a.m. and p.m.). The designations of a.m. and p.m. are relative to the central meridian:
+a.m. refers to ante meridiem, or “before noon,” and p.m. refers to post meridiem, or “after noon.” UT, UTC, GMT,
+and Z all refer to the same twenty-four-hour time system that assists in unifying a common time in regard to global
+operations. For example, all air flights use the twenty-four-hour time system so the pilots can coordinate flights
+across time zones and around the world.
+
+The earth rotates on its axis once every twenty-four hours at the rate of 15 degrees per hour (15 × 24 = 360). Time
+zones are established roughly every 15 degrees longitude so that local times correspond to similar hours of day
+and night. With this system, the sun is generally overhead at noon in every time zone that follows the 15-degree-
+wide system. The continental United States has four main time zones.
+
+The eastern standard time zone is five hours earlier than the time at the prime meridian (UTC) because it is about
+75 degrees west of 0 degrees (5 × 15 = 75). For example, if it is noon in London, then it is 7 a.m. in New York.
+If it is 1 p.m. in New York, it is 10 a.m. in San Francisco, which is three times zones to the west. Since there are
+twenty-four hours in a day, there are twenty-four time zones on Earth. Each time zone is 15 degrees wide.
+
+A problem with the 15-degree time zones is that the zones do not necessarily follow state, regional, or local
+boundaries. The result is that time zones are seldom exactly 15 degrees wide and usually have varied boundary
+lines. In the United States, the boundaries between the different time zones are inconsistent with the lines of
+longitude; in some cases, time zones zigzag to follow state lines or to keep cities within a single time zone. Other
+countries address the problem differently. China, for example, is as large in land area as the United States yet
+operates on only one time zone for the entire country.

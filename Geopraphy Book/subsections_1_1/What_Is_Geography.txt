@@ -1,0 +1,113 @@
+Geography is the spatial study of the earth’s surface (from the Greek geo, which means “Earth,” and graphein,
+which means “to write”). Geographers study the earth’s physical characteristics, its inhabitants and cultures,
+phenomena such as climate, and the earth’s place within the universe. Geography examines the spatial
+relationships between all physical and cultural phenomena in the world. Geographers also look at how the earth,
+its climate, and its landscapes are changing due to cultural intervention.
+
+The first known use of the word geography was by Eratosthenes of Cyrene (modern-day Libya in North Africa),
+an early Greek scholar who lived between 276 and 194 BCE. He devised one of the first systems of longitude
+and latitude and calculated the earth’s circumference. Additionally, he created one of the first maps of the world
+based on the available knowledge of the time. Around the same time, many ancient cultures in China, southern
+Asia, Polynesia, and the Arabian Peninsula also developed maps and navigation systems used in geography and
+cartography.
+
+The discipline of geography can be broken down into two main areas of focus: physical geography and human
+geography. These two main areas are similar in that they both use a spatial perspective, and they both include the
+study of place and the comparison of one place with another.
+
+Physical geography is the spatial study of natural phenomena that make up the environment, such as rivers,
+mountains, landforms, weather, climate, soils, plants, and any other physical aspects of the earth’s surface.
+Physical geography focuses on geography as a form of earth science. It tends to emphasize the main physical
+parts of the earth—the lithosphere (surface layer), the atmosphere (air), the hydrosphere (water), and the biosphere
+(living organisms)—and the relationships between these parts.
+
+The major forms of study within physical geography include the following: 
+Geomorphology (the study of the earth’s surface features),
+Glaciology (the study of glaciers),
+Coastal geography (the study of the coastal regions),
+Climatology (the study of climates and climate change),
+Biogeography (the study of the geographic patterns of species distribution).
+
+Some physical geographers study the earth’s place in the solar system. Others are environmental geographers,
+part of an emerging field that studies the spatial aspects and cultural perceptions of the natural environment.
+Environmental geography requires an understanding of both physical and human geography, as well as an
+understanding of how humans conceptualize their environment and the physical landscape.
+
+Physical landscape is the term used to describe the natural terrain at any one place on the planet. The natural
+forces of erosion, weather, tectonic plate action, and water have formed the earth’s physical features. Many
+US state and national parks attempt to preserve unique physical landscapes for the public to enjoy, such as
+Yellowstone, Yosemite, and the Grand Canyon.
+
+Human geography is the study of human activity and its relationship to the earth’s surface. Human geographers
+examine the spatial distribution of human populations, religions, languages, ethnicities, political systems,
+economics, urban dynamics, and other components of human activity. They study patterns of interaction between
+human cultures and various environments and focus on the causes and consequences of human settlement and
+distribution over the landscape. While the economic and cultural aspects of humanity are primary focuses of
+human geography, these aspects cannot be understood without describing the landscape on which economic and
+cultural activities take place.
+
+The cultural landscape is the term used to describe those parts of the earth’s surface that have been altered
+or created by humans. For example, the urban cultural landscape of a city may include buildings, streets,
+signs, parking lots, or vehicles, while the rural cultural landscape may include fields, orchards, fences, barns,
+or farmsteads. Cultural forces unique to a given place—such as religion, language, ethnicity, customs, or
+heritage—influence the cultural landscape of that place at a given time. The colors, sizes, and shapes of the
+cultural landscape usually symbolize some level of significance regarding societal norms. Spatial dynamics assist
+in identifying and evaluating cultural differences between places.
+
+Traditionally, the field of cartography, or map making, has been a vital discipline for geographers. While
+cartography continues to be an extremely important part of geography, geographers also look at spatial (space)
+and temporal (time) relationships between many types of data, including physical landscape types, economies,
+and human activity. Geography also examines the relationships between and the processes of humans and
+their physical and cultural environments. Because maps are powerful graphic tools that allow us to illustrate
+relationships and processes at work in the world, cartography and geographic information systems have become
+important in modern sciences. Maps are the most common method of illustrating different spatial qualities, and
+geographers create and use maps to communicate spatial data about the earth’s surface.
+
+Geospatial techniques are tools used by geographers to illustrate, manage, and manipulate spatial data.
+Cartography is the art and science of making maps, which illustrate data in a spatial form and are invaluable in
+understanding what is going on at a given place at a given time.4 
+
+Making maps and verifying a location have become more exact with the development of the global positioning
+system (GPS). A GPS unit can receive signals from orbiting satellites and calculate an exact location in latitude
+and longitude, which is helpful for determining where one is located on the earth or for verifying a point on a
+map. GPS units are standard equipment for many transportation systems and have found their way into products
+such as cell phones, handheld computers, fish finders, and other mobile equipment. GPS technology is widely
+implemented in the transport of people, goods, and services around the world.
+
+Remote sensing technology acquires data about the earth’s surface through aerial photographs taken from
+airplanes or images created from satellites orbiting the earth. Remotely sensed images allow geographers to
+identify, understand, or explain a particular landscape or determine the land use of a place. These images can
+serve as important components in the cartographic (map-making) process. These technologies provide the means
+to examine and analyze changes on the earth’s surface caused by natural or human forces. Google Earth is an
+excellent example of a computer tool that illustrates remotely sensed images of locations on the earth.
+
+Geographic information science (GIS), often referred to as geographic information systems, uses a computer
+program to assimilate and manage many layers of map data, which then provide specific information about a
+given place. GIS data are usually in digital form and arranged in layers. The GIS computer program can sort6 World Regional Geography
+or analyze layers of data to illustrate a specific feature or activity. GIS programs are used in a wide range of
+applications, from determining the habitat range of a particular species of bird to mapping the hometowns of
+university students.
+
+GIS specialists often create and analyze geographical information for government agencies or private businesses.
+They use computer programs to take raw data to develop the information these organizations need for making vital
+decisions. For example, in business applications, GIS can be used to determine a favorable location for a retail
+store based on the analysis of spatial data layers such as population distribution, highway or street arrangements,
+and the locations of similar stores or competitive establishments. GIS can integrate a number of maps into one to
+help analysts understand a place in relation to their own specific needs.
+
+GIS also focuses on storing information about the earth (both cultural and natural) in computer databases that
+can be retrieved and displayed in the form of specialized maps for specific purposes or analyses. GIS specialists
+require knowledge about computer and database systems. Over the last two decades, GIS has revolutionized the
+field of cartography: nearly all cartography is now done with the assistance of GIS software. Additionally, analysis
+of various cultural and natural phenomena through the use of GIS software and specialized maps is an important
+part of urban planning and other social and physical sciences. GIS can also refer to techniques used to represent,
+analyze, and predict spatial relationships between different phenomena.
+
+Geography is a much broader field than many people realize. Most people think of area studies as the whole of
+geography. In reality, geography is the study of the earth, including how human activity has changed it. Geography
+involves studies that are much broader than simply understanding the shape of the earth’s landforms. Physical
+geography involves all the planet’s physical systems. Human geography incorporates studies of human culture,
+spatial relationships, interactions between humans and the environment, and many other areas of research that
+involve the different subspecialties of geography. Students interested in a career in geography would be well
+served to learn geospatial techniques and gain skills and experience in GIS and remote sensing, as they are the
+areas within geography where employment opportunities have grown the most over the past few decades.

@@ -1,0 +1,21 @@
+A country’s demographic statistics can be illustrated graphically by a population pyramid. A population pyramid
+is essentially two bar graphs that depict male and female age cohorts either in absolute size or as a percentage of
+the total population. Male cohorts are typically shown on the left side of the pyramid, and females are on the right
+side.
+
+The shape of a country’s population pyramid tells a story about the history of its population growth. For example,
+a high-growth-rate country has a pyramid that is narrow at the top and wide at the bottom, showing that every
+year more children have been born than the year before. As family size decreases and women in a society have
+fewer children, the shape of the pyramid changes. A population pyramid for a postindustrialized country that has
+negative growth would be narrower at the bottom than in the middle, indicating that there are fewer children than
+middle-aged people. Four basic shapes indicate the general trends in population growth:
+
+Rapidly expanding
+Expanding
+Stationary
+Contracting
+
+These shapes also illustrate the percentage of a population under the age of fifteen or over the age of sixty-five,
+which are standard indicators of population growth. Many postindustrial countries have a negative population
+growth rate. Their population pyramids are narrow at the bottom, indicating an urbanized population with small
+family sizes.
