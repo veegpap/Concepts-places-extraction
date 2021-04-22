@@ -1,0 +1,811 @@
+
+        International Research in Geographical and
+        Environmental Education
+        ISSN: 1038-2046 (Print) 1747-7611 (Online) Journal homepage: http://www.tandfonline.com/loi/rgee20
+“If you went out it would stick”: Irish children's
+learning in their local environments
+Susan Pike
+To cite this article: Susan Pike (2011) “If you went out it would stick”: Irish children's learning in
+their local environments, International Research in Geographical and Environmental Education,
+20:2, 139-159, DOI: 10.1080/10382046.2011.564787
+To link to this article: https://doi.org/10.1080/10382046.2011.564787
+         Published online: 04 May 2011.
+         Submit your article to this journal
+         Article views: 4876
+         View related articles
+         Citing articles: 7 View citing articles
+                           Full Terms & Conditions of access and use can be found at.
+                
+
+International Research in Geographical and Environmental Education
+Vol. 20, No. 2, May 2011, 139–159
+            “If you went out it would stick”: Irish children’s learning
+                                      in their local environments
+                                                Susan Pike
+                        Education Department, St. Patrick’s College, Dublin, Ireland.
+        This paper reports on the findings of a research project investigating children’s expe-
+        riences of their local environments. Children’s experiences of spaces and places and
+        the interaction of such experiences and their learning were investigated, using mixed
+        research methods, informed by phenomenological and participatory methodologies.
+        Through these activities including discussion, interviews and drawing, children de-
+        scribed how they experienced affordances of spaces, places and people in a range of
+        ways. The children also revealed varied and dynamic attitudes to their local environ-
+        ments. Children’s use and opinions of the environment were influenced by temporal,
+        physical, social and economic factors. As well as expressing that such local experiences
+        enhanced their current lives, the children also described how experiences in their lo-
+        cal environment contributed to the different areas of their development, including their
+        learning. For most children, such experiences emanated from outside school, with learn-
+        ing in geography in school more likely to be about places farther from home. These
+        findings suggest that attempts to make children’s geographies in their local environ-
+        ments central to primary geography through content and activities like many of those
+        outlined in the Primary School Curriculum would be successful. The children’s views
+        also suggest that the contributions of all children could be used in decision-making
+        beyond schools. Such consideration and development of children’s geographies has the
+        potential to contribute to children’s lives as active citizens, currently and in the future.
+        Keywords: children’s geographies; geography education; Irish education; geography
+        curriculum; primary geography; geography fieldwork.
+
+Introduction
+In recent years, there has been a growing interest in researching children’s lives (Aitken,
+2001; Deegan, Devine, & Lodge, 2004; Greene & Hogan, 2005; James & Prout, 1997;
+Qvortrup, Bardy, Sgritta, & Wintersberger, 1994), including their experiences of their
+local environments (Chawla, 2002; Hart, 1997; Matthews, 1992; Spencer & Blades, 2006;
+Tranter & Pawson, 2001). Such experiences appear to be important to children for a
+number of reasons, including their current well-being as well as their cognitive and affective
+development (Hart, 1979; Matthews, Limb, & Taylor, 2000; Moore, 1986; Punch, 2000;
+Skelton, 2000). Although children’s lives have become an increasingly popular field of
+research, it has been argued that there is much to discover about the “here and now” of
+children’s experiences in their local environments (Matthews & Limb, 1999, p. 61).
+      Recent research about children’s local environments has tended to be categorised within
+the fields of “children’s geographies” and the “geography of children” (Catling, 2003;
+
+  
+ISSN: 1038-2046 print / 1747-7611 online
+ 2011 Taylor & Francis
+DOI: 10.1080/10382046.2011.564787
+
+                                                S. Pike
+                                                   social
+                                               environment
+                                                                        control
+                         power
+                                            direct
+                                         experience
+            systems                                 child       children’s
+                                                               participative
+                                far                            experiences             politicised
+                                          children’s                        near
+                                           personal
+                                        geographical
+                                         experiences                                          decisions
+                                                      indirect
+                                                    experience
+        inequalities
+                                                                                 built
+                            natural                                          environment
+                         environment
+                                                  physical
+                                                environment
+                             Increasing recognition of children’s geographies
+                         (including their engagement in geographical education)
+   Children’s inhibited geographies                                   Children’s dynamic geographies
+   Children as submissive citizens                                           Children as active citizens
+   Children disempowered                                                          Children empowered
+   Children as not-yet-people                                                       Children as people
+Figure 1. Elements in children’s geographies. Source: Catling (2003, p. 172).
+Matthews, 2003). To draw these categories together, this paper investigates children’s ex-
+periences of their local environments and their learning, as illustrated by Catling in his
+model shown in Figure 1 (2003, p. 172). Within the model, children’s geographies are
+represented as a series of spheres, encompassing their experiences. In the top half of the
+diagram, the child is portrayed within their immediate “world at hand”, encompassing their
+direct experiences and their participation in communities. Also, within this sphere is the
+“world beyond”, or children’s indirect experiences. Circulating these realms of experiences
+
+
+           International Research in Geographical and Environmental Education              
+are the influences, such as the local environment itself and the systems and structures of
+society. The lower half of the diagram represents a continuum of the potential for recog-
+nising children’s geographies; to the left is a situation where children’s geographies are not
+recognised by the society, where children are inhibited, disempowered and submissive, and
+furthermore where children are considered “not yet-persons”. To the right is a situation
+where children’s dynamic geographies are recognised and developed by children becoming
+empowered, active citizens within their local communities. In this way, Catling’s model
+promotes the “agency” of children (Holloway & Valentine, 2000a; Matthews, 2003), gener-
+ally described as “the capacity of individuals to act independently” (James & James, 2008,
+p. 9). The model illustrates a continuum of children’s increasing independent engagement
+with their local environment, including their learning at school, referred to in this paper as
+children’s “local learning”.
+    Emerging from Catling’s model in Figure 1, this paper will focus on the following
+questions:
+    • How do children use their local environments?
+    • How do such experiences contribute to children’s learning?
+    • What influences children’s experiences, including their learning about their local
+       environments?
+    • What are the implications for practice for the incorporation of children’s experiences
+       into learning in geography?
+Children’s experiences of their local environments
+The study of children’s experiences in their localities has a relatively long tradition not
+only influenced primarily from geography and psychology but also from other disciplines
+(Matthews, 2003). Bunge and Bordessa’s (1975) investigations of children’s expeditions
+found that the children were subject to structural oppression and subsequent spatial restric-
+tions, especially for the poorest of children. Hart (1979) spent 18 months with the children
+of a New England town focusing on their experiences in their local environment. De-
+spite their common geographical focus, these studies drew different conclusions, as Bunge
+and Bordessa’s work emphasised the structural forces at work on children’s experiences,
+whereas Hart’s work emphasised children’s agency, in that they shaped their environment
+as much as it shaped them. Although it has been found that the children explore their local
+environments for the sake of it (Hart, 1979), space is generally used to access particular
+places. Across the literature, it is consistently found that children will use the places that
+are available and that they like. Research into children’s use of local places and their expe-
+riences in their local environments has focused on the specific natural and built places that
+children use in their local environments, including natural landscapes, such as woods and
+rivers (Fjørtoft & Sageie, 2000; Olwig, 1993; Owens, 1988; Tunstall, Tapsell, & House,
+2004), and human landscapes, such as parks and shopping centres (Hopkins, 1990; Skelton,
+2000; Vanderbeck & Johnson, 2000). The Growing up in Cities (GuiC) project compared
+children’s experiences spatially (in 11 countries) and temporally (in the 1970s and 1990s)
+(Chawla, 2002; Lynch, 1977). Findings reflected previous studies, but the comparative
+nature of the projects meant that differences along as ethnic, class and gender were more
+apparent, with girls, those from ethnic minorities and middle-class children having least
+freedom in their localities. Across all research in the field, the most consistent finding in
+the research is that there is a value, including learning, in the use of the local environment.
+
+                                        S. Pike
+Education, curriculum and children’s environments
+Educational theorists have noted the value of local learning: From a developmental per-
+spective, Piaget valued children’s complex environmental interactions, as such interactions
+contributed towards children’s intellectual development (Piaget & Inhelder, 1954). Socio-
+constructivists have criticised constructivists for ignoring the social context of learning
+(Bruner, 1986). Although still under-researched, there is evidence that children receive
+cognitive and affective benefits from local learning (Blaut, 1991, 1997; Chawla, 2002;
+Hart, 1992; Matthews, 1987). There is overwhelming evidence that teaching, using the
+locality and appropriate resources, develops children’s spatial capabilities (Catling, 1998;
+Walsh, 2006). Such awareness also develops where children have the opportunity for
+unrestricted play, alone or with friends, in environments (Hart, 1979; Matthews, 1987).
+Newer research evidence also reveals that when learning concepts in geography, children
+are more likely to understand them if they are actively learning in environments (Nundy,
+1999). Nundy (1999) found that the levels of understanding were significantly higher in
+children carrying out fieldwork on rivers outdoors than a control group learning in the
+classroom. There is also evidence that local learning, within a school context or not, brings
+affective benefits to children, including positive attitudes to learning and developed self-
+identity (Ballantyne & Packer, 2002; Biddulph & Adey, 2004; James, 1995; Matthews
+et al., 2000; Scourfield & Davies, 2005; Scourfield, Dicks, Holland, Drakeford, & Davies,
+2006).
+    Drawing on research evidence, local learning has featured subsequent curricular in the
+Republic of Ireland (RoI), including the 1971 CURACLAM NA BUNSCOILE (CnB) and
+1999 Primary School Curriculum (PSC) (DES/NCCA, 1999a, 1999b; DoE, 1971a, 1971b).
+The current geography programme aims to help children “make sense of their surround-
+ings and the wider world . . . to learn about people and places and the inter-relationships
+between them”, encompassing the development of both a “sense of space” and “a sense
+of place” (DES/NCCA, 1999b, p. 6). Within the geography curriculum, a sense of space
+refers to the understanding of and feeling for places, whereas a sense of place refers to
+the identity of places, including local places, and developing an appreciation of what it
+may be like to experience such places (DES/NCCA, 1999b, p. 9). Furthermore, the PSC
+views children as members of local communities recognising the worth of children’s learn-
+ing in a local context (DES/NCCA, 1999b), reflecting the established literature (Driskell,
+2002; Hart, 1992; Heft & Chawla, 2006). Within Social, Personal and Health Education
+(SPHE), reference is made to enhancing and deepening children’s experiences of, atti-
+tudes to and participation in local communities (DES/NCCA, 1999d, 1999e). In geography,
+there are opportunities for children to engage with local learning, expressing their ideas
+and opinions about their locality (DES/NCCA, 1999b, 1999c). Although the PSC holds
+progressive and active views of children, there are some shortcomings, as the concept of
+participation in the PSC is limited to action within school (Waldron, 2004). Neverthe-
+less, teaching and learning in primary geography is not just a product of the curriculum
+but also of interpretation (Catling, 2003, p. 169). In the RoI, limited research evidence
+suggests that following the introduction of the CnB, provision for child-centred creative
+learning, including local learning, in the curriculum was not evident in classroom practice
+(Gash, 1985). Limited evidence suggests that children’s experiences of primary geography
+may be shaped more by requirements of school textbooks rather than by the curriculum
+(Devine, 2003; Pike, 2006). Research indicates that actively learning about or within the
+local environments is rarely experienced in schools (Devine, 2003; INTO, 1996; Pike,
+2006).
+
+            International Research in Geographical and Environmental Education               
+Research methods
+Drawing on a tradition of phenomenology to inform research in geography, the theoretical
+basis of this project was the field of phenomenology, being a study of the essences of
+children’s experiences (Merleau-Ponty, 1962, p. vii). Crucially, the research aimed to be
+participatory, to allow participants the opportunity to “act, take part in, change and become
+changed by the social and cultural world they live in” (Christensen & Prout, 2002, p. 481).
+Therefore, the “mosaic approach” was drawn upon (Clark & Moss, 2001) to research the
+lived experiences of children within a participatory process.
+     The fieldwork for this research took place over the period from September 2005 to
+June 2007 in state primary schools in Dublin City and Waterford County and City, as
+outlined in Table 1. Initial data were collected from two rural schools in Waterford County
+in September 2005, which indicated interesting dimensions to the children’s experience.
+Therefore, a further selection of schools was made that were located in areas known to the
+author (Huberman & Miles, 2002, p. 12) and were varied in the socio-economic profile of
+their catchment and in ethos and nature. In these schools, the school principals, teachers
+and children were willing to take part in the research. The choice of this range of schools
+helped ensure external validity in the sample, whilst ensuring there was sufficient time to
+gather meaningful data with each child (Robson, 2002).
+     This research was carried out with pupils in fifth and sixth classes (aged 10–13 years).
+In the two rural schools, the pupils in fifth and sixth classes were included in the project
+as they were in multi-grade settings. The range of ages reflected the fact that children start
+school at any age between 4 years and 5 years 11 months, depending on parental decisions
+ Table 1. Schools and children participating in the study.
+                        Description of                                       Number of children
+ Name of school            school       Location/catchment   Number of       taking part in the
+ Age of pupils        Location of school      of school     pupils in school        study
+ Mountainview        Small,              Small village             85                 21
+                        co-educational
+ 4–13 years          National school     Rural
+ Seaview             Small,              Large village             72                 21
+                        co-educational
+ 4–13 years          National school     Village/rural
+ Bayside             Medium, mixed       Suburbs of town          221                 21
+ 4–13 years          Gaelscoil           Rural/village/town
+ Hillside            Medium,             Rural                    192                 20
+                        co-educational
+ 4–13 years          National school     Rural/suburbs of
+                                           town
+ Countryview         Large,              Rural                    553                 40
+                        co-educational
+ 4–13 years          National school     Rural/suburbs/city
+ City girls’         Large girls school  Inner city suburbs       291                 21
+    school
+ 8–13 years          Senior national     City
+                        school
+ City boys’          Large boys          Inner city suburbs       258                 24
+    school
+ 8–13 years          Senior national     City
+                        school
+  Names of schools have been changed.
+
+                                          S. Pike
+     Table 2. Examples of children’s ideas for the research process.
+     Talk to us more.                  Get it drawn, write a bit, get us to TALK ABOUT IT!
+     Draw maps.                        We could interview other people.
+     Poster.                           Go on a walk around the village.
+     Publish on cars.                  Draw it. Go on TV. Call a meeting.
+     Ask us more questions.            Talk to younger children.
+in the RoI. The gender breakdown in each of the co-educational schools was broadly evenly
+split in each school, and when the children in the single-sex schools were accounted for,
+the gender breakdown for all children was 95 (56.5%) boys to 73 (43.5%) girls. The vast
+majority of children were both born in Ireland and considered themselves as Irish (92.9%).
+Children living in rural or urban area were broadly evenly split, with 79 children (47%)
+living in rural areas and 89 (53%) living in urban areas. Most children had lived in their
+current locality for a relatively long time; 45% of the children had never moved, with a
+further 29.4% of the children only having moved locally.
+     In considering the methods most suitable for collecting information about their
+experiences in their local environments, the children’s ideas were sought, as outlined on
+Table 2 (Tilbury & Walford, 1996, p. 57), which included a variety of methods for finding
+out opinions, reflecting the mosaic approach using mixed methods (Clark & Moss, 2001).
+Such mixed research methods were evident in other studies of children’s localities, even if
+not named as such (Hart, 1979; Nairn, Panelli, & McCormack, 2003; Punch, 2000; Skelton,
+2000). It was hoped that the quantitative data would discover the patterns of the children’s
+experiences and qualitative data would provide some reasons for the children’s experiences
+(Huberman & Miles, 2002), with the chances of biases arising from over-reliance on one
+method being minimised (Ennew & Morrow, 1994, p. 70; Morrow & Richards, 1996,
+p. 101).
+     The first activity for data collection was to invite the children to draw their local
+environment (n = 133), an established technique in geography research (Lynch, 1977;
+Matthews, 1992), rather than relying on writing and speaking (Backett-Milburn & McKie,
+1999) (Table 3). The children also completed questionnaires on their experiences of and
+attitudes to their local environment. The first of these was a multiple-choice, short response
+questionnaire (SRQ) (n = 155) about their experiences in their local environment at home
+and school. The SRQ fitted in with the findings of initial research and the research questions
+regarding children’s experience in the local environment (Czaja & Blair, 1996). The second
+of these was a long response questionnaire (LRQ) (n = 126) about their local environment
+containing questions about children’s experiences in their local environment, used to collect
+more open data than the SRQ. Focus group interviews (n = 112) were also designed to
+collect the children’s verbal accounts to give the children space to explore the ideas they
+had expressed (Kamberelis & Dimitriadis, 2005; Merton & Kendall, 1946). Interview
+groups were “geographical” and friendship groups, as such groups were both supportive
+and enabling for the children (Matthews & Tucker, 2000; Mayall, 2002; Tucker, 2003).
+Complimenting the questionnaires and interviews were the children’s photographs (n =
+102), helping to access their ideas of places, enabling features or places talked of to become
+more visible (Punch, 2003).
+     The range of data was processed by open coding, noting the themes in the children’s
+activities (Corbin & Strauss, 1990). Codes included types of experiences and relationships
+between learning and experiences, using a Microsoft Excel spreadsheet. Thereafter, purely
+quantitative data sets were transferred to the Statistical Packages for the Social Sciences
+
+             International Research in Geographical and Environmental Education                   
+
+Table 3. Techniques used in the research process.
+Technique (Grouping)                     Children’s activity             Researcher’s activity
+Classroom discussion (Whole      Viewing and discussing            Introducing ideas of the
+   class, friendship groups)        research material in groups       research
+                                 Devising ideas for research       Providing examples of research
+                                    process in pairs/groups        Asking for ideas about research
+                                 Completing permission slip and       process
+                                    asking for parental
+                                    permission
+Short response questionnaire     Completing questionnaire          Outlining task and inviting
+   (Individual)                                                       children to take part
+                                                                   Clarifying task and helping
+                                                                      individuals
+Pictoral representations of the  Drawing a pictoral                Outlining task and inviting
+   present locality (Individual)    representation of their local     children to take part
+                                    environment                    Clarifying task and helping
+                                                                      individuals
+Long responses questionnaire     Completing questionnaire          Outlining task and inviting
+   (Individual)                                                       children to take part
+                                                                   Clarifying task and helping
+                                                                      individuals
+Interview (Self-selected         Asking questions                  Outlining task and inviting
+   friendship groups)            Answering questions                  children to take part
+                                 Discussing with friends           Asking questions
+                                                                   Managing discussions
+Photography (Individual with     Taking photograph of their        Outlining task and inviting
+   some pairings)                   local environment                 children to take part
+                                 Writing responses about           Asking questions
+                                    photograph
+Pictoral representations of      Drawing a representation of       Outlining task and inviting
+   future locality (Individual)     their local environment           children to take part
+                                                                   Clarifying task and helping
+                                                                      individuals
+Feedback on study (Whole         Discussing findings               Outlining task and inviting
+   class)                                                             children to take part
+                                 Making suggestions                Presenting initial findings of
+                                                                      research
+(SPSS), to enable summary statistics and comparisons to be made to complement codes
+(Robson, 2002). By considering the written and drawn data from each child individually, it
+was evident that the quantitative data provided the patterns of the children’s experiences, but
+that influences on their experiences were apparent through the qualitative data (Jick, 1979).
+Findings
+Children’s uses of their local environment included their movements through space and
+their uses of places in their locality, as outlined in Table 4. In many ways, the children spoke
+about their experiences as many before them, although children had contrasting experiences
+(Chawla, 2002; Hart, 1979; Matthews, 1992, 2003; Spencer & Blades, 2006).
+Children’s uses of local spaces
+The children used a range of spaces in their locality to play, to meet up within or to travel
+through to reach other spaces or places, as outlined in Table 5. Overall, 24.3% of the
+
+                                            S. Pike
+        Table 4. Children’s spaces and places in their local environments (n = 168).
+        Natural spaces and places
+        Natural                                                Built “green” areas
+        • Beaches                                              • Dens
+        • Fields                                               • Parks
+        • Hills/mountains                                      • Public “greens”
+        • Rivers                                               • Sports fields
+        • Woods
+        Built places spaces and places
+        Commercial places                                      Community facilities
+        • Bowling alleys                                       • Churches
+        • Cinemas                                              • GAA/soccer clubs
+        • Food outlets/restaurants                             • Swimming pools
+        • Local shops/shopping centres                         • Tennis clubs
+        • Swimming pools                                       • Youth clubs
+        People
+        Familiar people                                        Less familiar people
+        • Family                                               • Adults, e.g. youth workers
+        • Friends                                              • Children, e.g. younger
+                                                                 children
+        • Local residents                                      • Teenagers
+        Source: All data.
+children described using the space very close to their home, such as the street or common
+area, with the majority (54.8%) of children using space in their immediate area, such as
+the whole of their housing estate or their part of the town or city. A small proportion of
+children (2.6%) had particularly large ranges, describing their use of the whole city or large
+areas or the countryside. It was evident that the children’s experiences of local spaces were
+related to who lived near to them (Costall, 1995; Hart, 1979; Matthews & Field, 2001;
+Matthews et al., 2000; Newson & Newson, 1977; Punch, 2000; Skelton, 2000), with over
+three quarters of children visiting friends and relatives at least once a week. In fact, there
+were no statistically significant differences found using gender or location as variables
+(gender/friends: p = 0.218, U = 2163.5, z = −1.231; gender/relatives: p = 0.406, U =
+2253.0, z = −0.830; location/friends: p = 0.33, U = 1944.0, z = −2.136; location/relatives:
+p = 0.164, U = 2190.5, z = 0.164), contrasting with earlier studies (Hart, 1979).
+ Table 5. Children’s use of their local environment (n = 155).
+ Percentage of
+ children carrying out      At least once a      At least once a      Once a year or    Not near my
+ this type of activity           week                month                  less            home
+ Walking                         81.2                 90.6                   5.8              –
+ Shops                           80.3                 88.3                   8.1             2.2
+ Paths                           73.2                 78.3                   8.2             8.7
+ Cycling                         68.9                 85.6                  11.5              –
+ Roads                           59.3                 72.9                  20.8              –
+ Public places                   53.9                 71.9                  18.0             5.8
+ Fields                          48.2                 68.3                  19.5             6.5
+ Woods                           24.5                 46.1                  38.8             5.8
+ Playgrounds                     13.0                 40.7                  33.8            28.8
+ Source: SRQ.
+
+            International Research in Geographical and Environmental Education                      
+
+     In terms of movement through space, the SRQ (n = 155) children frequently walked
+and cycled around their local environments, with 81.2% of children questioned walking
+and 88.9% cycling in their local area at least once a week. The most common reason for
+using space in this way was to meet friends and/or relatives, as over three quarters (76%)
+of children visited or met friends at least once a week, with 68.0% doing the same with
+relatives. The proximity of others, particularly friends and relatives, appeared to direct
+children’s uses of space in their local environment:
+    Where my house is it’s really close to my cousin’s and my nanny’s house. So like, lots of times
+    I might ring my cousin and say: “Do you want to go for a walk?” And like we’re close so we
+    can go, together and it’s not noisy. (Girl, rural area, interviewed with her two female cousins)
+     Whilst the majority of children used space frequently, there were differences within
+groups of children in their choice of transport through space. For example, children in
+urban areas were more likely to walk around their area, with children from rural areas
+more likely to cycle. However, these differences were not statistically significant (walking:
+p = 0.058, U = 1944.5, z = −1.894; cycling: p = 0.083, U = 1963.0, z = −1.736).
+Using gender as a variable, fewer girls than boys either walked or cycled around their
+local environments on a daily basis, though this was found to be statistically significant for
+cycling but not for walking (walking: p = 0.451, U = 2211.5, z = −0.754; cycling: p =
+0.570, U = 2249.0, z = −0.568). Interviews revealed complex patterns of use of space at
+different times; children used their local environments both extensively and intensively.
+     In all areas, children frequently used different spaces, reflecting the environment the
+children resided in (Kyttä, 2006), with children in urban areas more likely to use the built
+environment and children in rural areas more likely to use the natural environment spaces.
+Of all the spaces and places used by the children, the most common were journeys to the
+local shops. Although a shop is a place, rather than space, to the children the streets outside
+shops or arcades within shopping centres were part of their local spaces, most often used
+for “hanging out” in spaces near to the shop.
+     The children used a range of local spaces, most commonly woods and fields, as can be
+seen in Table 6. There were a large number of children who did not use natural spaces
+such as woods (30%) and fields (17.3%), even though they were accessible to them,
+reflecting previous findings (Matthews et al., 2000; Nairn et al., 2003). As with the children’s
+ranges, there were temporal and seasonal variations in children’s use of local spaces, as not
+such easily defined spaces such as pavements, streets and other areas of their immediate
+neighbourhood were valued by children (Karsten, 2002; Karsten, Bongertman, de Haan,
+Van Der Straaten, & Tom, 1995; Matthews, 2002; Moore, 1986; Owens, 1988), and this
+  Table 6. Children’s weekly use of the natural and built environment (n = 155).
+  Percentage of children using
+  spaces and places                       Urban           Rural        Male        Female       All
+  Shops                                    83.6           77.6         76.0         84.9       80.3
+  Friend’s homes                           84.6           75.3         78.3         70.2       75.0
+  Relative’s homes                        63.5            75.4         73.7         70.2       70.0
+  Fields                                  35.5            58.5         53.4         42.4       48.2
+  Woods                                   32.5            14.5         27.4         21.2       39.6
+  Playgrounds                             16.2            10.4         16.5           9.1      13.0
+  Source: SRQ.
+
+                                           S. Pike
+Figure 2. “The anti-adult corner”, boy, city. Source: child’s photograph.
+pattern of space use, so different to how adults use space, was true of some of the children.
+As these boys photographed (Figure 2) and described:
+   Boy 1: There’s a place we hang around it’s called the AAC, the “anti-adult corner”. We just
+   hang out there and play. We just were talking and we were messing because we were bored and
+   we gave it a name.
+   Boy 2: It’s our main hang out place. We send songs on our phones through Bluetooth. (Boys,
+   city, interview)
+    Overall, children in the project used spaces in their local environments frequently and
+in a variety of ways at different times. The children used spaces where other children were
+found, used space to move through to get to people and places, and used space to be alone.
+Children’s uses of local places
+The children also used a wide range of places in their local environments, as outlined in
+Table 7, most commonly shops (80.3% at least once per week). After shops, other frequently
+        Table 7. Children’s use of places in their local environments (n = 155).
+                                                       At least
+        Percentage of children         At least         once a     Once a year    Never (as
+        using places                 once a week        month        or less     not nearby)
+        Shops                            80.3            88.3           8.1           2.2
+        Relatives’ houses                68.9            92.9          10.0           6.4
+        Friends’ houses                  67.0            89.3           5.7           0.7
+        Public places                    53.9            71.9          18.0           5.8
+        Playgrounds                      13.0            31.7          33.8         28.8
+        Source: SRQ.
+
+           International Research in Geographical and Environmental Education               
+Figure 3. “The take away” girl, city. Source: children’s photograph.
+used places were facilities partly or wholly designed for children, such as green areas, sports
+and youth centres. One-third of all children photographed common “green” areas on estates,
+and children spoke very highly of such provision. In rural areas, children were more likely
+to visit places of the natural environment, such as woods and beaches; conversely, in urban
+areas, children were more likely to talk of elements of the built environment, such as youth
+centres, shops and places to eat, as depicted in Figure 3. Like local spaces, places were not
+only used for particular attractions as a place but also to meet others. In fact, the amount
+and range of places used by the children made categorisation difficult, as many of the places
+were a mixture of place types, for example, local shops were privately owned, but were
+effectively a public facility used by many children to shop but also to meet outside of.
+This was true of other spaces and/or places used by the children, such as youth centres and
+Gaelic Athletic Association (GAA) facilities.
+    The final types of places mentioned by the children were places they had made them-
+selves. Although only two interview groups talked of such spaces, the amount of time they
+spent talking of these places justifies inclusion, as the children described in detail about the
+construction and use of these places. Like others (Derr, 2006; Hart, 1979), it was evident,
+even with this small amount of children, that the girls focused on the insides of the dens,
+for example, what they had put in the dens, whilst the boys talked about how they made the
+dens, for example, the process of making dens out of tree branches.
+    Overall, children used a wide range of spaces and places in their locality. The nature
+of the environment itself appeared to be the largest determinant in what places and spaces
+children used. Where there was a combination of spaces, places and people nearby, children
+used their local environments to a great extent.
+
+                                               S. Pike
+Children’s learning in their local environments
+From the children’s perspective, their experiences in their local environments were not
+only valuable in themselves but also contributed to their learning, supporting previous
+findings (Hart, 1979; Matthews, 1992; Moore, 1986). This learning was multi-faceted,
+including cognitive and affective domains of learning, with experiences contributing to the
+development of children’s knowledge of spaces and places and understanding of physical
+and human processes.
+    Across the range of data, there was evidence of extensive and intensive knowledge of
+their local environments; for example, in the interviews, the extent of children’s knowledge
+of their local environments was also evident, as illustrated in Figure 4 and within this
+quote:
+   Well, it’s a very long boreen and then you go in and my house and I’ve a bit of it going into
+   a farmyard, which is my Nanny’s and all the brothers share. Then it’s kind of a dead end from
+   there and then there are rough little pats (sic) that we use to keep the sheep up to the mountains.
+   Then there’s no more houses or anything in further than my nanny’s. And then (there’s a) walk
+   up to the fields and then we have old broken down sheds, houses and dipping tanks and stuff.
+   (Girl, rural area, interview)
+    As found elsewhere (Hart, 1979; Matthews, 1987), pictures showing the widest area
+were drawn by children with the most spatial activity. Furthermore, the majority of children
+drew pictures that (n = 133) were broadly topographically accurate (73.5%) and well
+organised (88.7%). Overall, many children held detailed knowledge of the features and
+people in their local environment. The children had an impressive awareness of human
+processes and were able to describe changes that had occurred in their areas, explain
+why these changes had occurred and appreciate different people’s views on such changes,
+Figure 4. My local environment, girl, rural area. Source: child’s picture.
+
+            International Research in Geographical and Environmental Education                   
+reflecting previous studies (Chawla, 2002; Hart, 1992). Their awareness of change in the
+local environment, including changes that had happened or were about to happen, was
+apparent in their photographs, with 82.7% taking the photograph because of past or future
+changes. Overall, 70% of children looked at their local paper each week and over 80%
+used their local environment on a weekly basis, and so, it was not surprising that the
+children knew what was going on in their locality! There were a number of local processes
+on which children had quite marked opinions and were concerned about, particularly the
+closing of facilities and the increase in traffic volumes. Children appeared to have less of an
+understanding of local physical processes, as no children talked of local physical processes
+in any of the interviews. For example, the children photographed those places that were
+changing due to physical processes, but this was not given as a reason why they took the
+photograph.
+     Although the children had a range of knowledge and understanding of their local
+environments, it was not strictly developmental, as suggested by constructivist theories of
+children’s learning (Piaget & Inhelder, 1954). For example, some children found it difficult
+to draw their locality but could describe it in detail, whilst other children appeared to know
+little about the human and physical processes in their locality but were able to engage
+verbally in complex ideas about the influences on changes in their area. It was evident that
+children’s experiences contributed to their learning beyond cognitive abilities, with evident
+mixing of cognitive and affective dimensions of children’s learning, for example, in relation
+to ideas and opinions about local changes.
+     Through the use of the local environment, children constructed detailed knowledge
+about the local spaces, places and people, and it was evident that knowledge of local spaces
+was something the children were proud of. Children also expressed how experiences in
+their local environments contributed to their spatial awareness, their knowledge of places,
+their sense of safety and their sense of fun:
+    It’s more fun than watching telly all day. If you’re playing something or someone’s chasing you
+    or something it gets funny like, it gets so funny and then you have to stop running because
+    you’re laughing so hard. (Girl, town centre, interview)
+     Overall, children’s experiences in their locality developed a range of cognitive and
+affective dimensions in children’s learning, as well as being good fun.
+Children’s learning at home and school
+Within and around the local environment, children appeared to develop their knowledge and
+understanding of the local environment from themselves (constructed learning) and from
+others (received learning), with most of the children’s experiences of the local environments
+emanating from home rather than from the school. Children had experiences of learning
+about their local environments at school; however, this was far less common than their
+home-based experiences, with experiences of local learning in geography varying from
+class to class. The teachers’ preferences were evident to the children. For example, in
+Seaview School, the teacher drew heavily on the local environment, an area rich in historical
+features and stories, although the teacher’s ambivalent attitude to geography was reflected
+in the children’s negative attitude to it. In contrast, at a City Boys’ school, the teacher had a
+particular interest in geography and incorporated local geography into classroom planning.
+     Overall, the SRQ, as summarised in Tables 8 and 9, revealed the types of activities that
+the children carried out in geography lessons in school geography, with children spending
+
+                                           S. Pike
+         Table 8. Children’s experiences of learning local environments at home (n = 165).
+                                            At least once a Once a year or Not near/in my
+         Percentage of children                  week               less              home
+         Walking locally                         81.2                5.8                –
+         Cycling locally                         68.9               10.1                –
+         Visiting shops                          80.3                6.6                2.0
+         Visiting relatives’ houses              75.0                3.6                0.7
+         Visiting friends’ houses                70.0                6.4                6.4
+         Look at local paper                     60.2                7.8                8.5
+         Look at a local picture                   7.6              33.6               35.0
+         Look at local aerial photographs        17.1               32.1               34.3
+         Source: SRQ.
+relatively little time in learning about their locality (34.9% once a term; 12.1% never), with
+figures for learning about the school environments even lower (24.6% once a term; 16.4%
+never). Furthermore, active engagement in the local environment through fieldwork was
+infrequent in all of the schools that the children attended. Children tended to be carrying
+out passive activities on non-local environments in geography lessons, such as learning
+about Ireland and other countries from a textbook.
+     Children had varied views of their local learning; some felt that it was exclusively part
+of their home experience, whilst others felt that it should be part of their school experiences.
+Where they expressed an opinion, it was clear that children were not impressed by geography
+lessons that were book based, even though this was a common experience for many of them.
+Girls were particularly negative about these experiences, but when their teacher diverted
+from the book, the children were much happier about their experiences:
+    Our teacher just does what’s in the book. If I was a teacher I’d just go “Yer right . . . book
+    goodbye” and improvise I’d start my own thing. You learn more from a person than a book,
+    as a person has been more places than the book. When our teacher talks about (her town), it’s
+    really interesting. We are hanging on her every word. (Girl, large city, interview)
+     Teachers clearly inluenced the extent to which children engaged in learning about
+locality, as shown in Table 10. Overall, the children’s personally constructed knowledge of
+   Table 9. Children’s experiences of learning various environments in school (n = 155).
+                                                  At least    At least
+   Number of children stating that they           once a       once a         At least
+   carried out this activity                      month          term       once a year     Never
+   Local environment
+      Learning about school area                    25.6         30.7           27.1        16.4
+      Learning about local environments             34.9         30.7           22.1        12.1
+      Learning about county                         33.3         22.7           17.7         5.7
+   Non-local environment
+      Learning about country                        71.6         14.9            9.2         4.3
+      Learning about MEDCs                          38.6         20.7           19.3        21.4
+      Learning about LEDCs                          41.6         27.1           18.6        22.9
+   Source: SRQ.
+
+            International Research in Geographical and Environmental Education                     
+   Table 10. Teacher influence on learning in geography.
+                                                     Teachers in this study who . . .
+                                    were recently    were a local      had local      had a geography
+                                      qualified        resident         interest          interest
+   . . . were significantly more likely to enable the children to∗
+   Learn about school                     No              No              No                Yes
+   Learn about local area                 No              No              No                Yes
+   Learn about county                    Yes              Yes             No                Yes
+   Use a map of local area                No              No              No                Yes
+   Use a map of county                   Yes              Yes             No                Yes
+   Use a map of Ireland                   No              No              No                Yes
+   Draw a map of school                   No              Yes             No                 No
+   Draw a map of local area               No              No              Yes                No
+   Draw a map of county                  Yes              Yes             No                Yes
+   Use school grounds                     No              No              Yes               Yes
+   Do fieldwork in the locality          Yes              Yes             Yes               Yes
+    As measured by a Mann–Whitney U test where p < 0.05.
+   Source: SRQ.
+their local environments greatly outweighed their knowledge gained from experiences at
+school.
+
+Conclusions and recommendations
+In summary, children used their local environments in a diverse range of ways; they used
+the spaces around their homes intensively, and when time and parents permitted, they
+ventured further and used the space more extensively. They used specific places in the
+built environment, formally for organised activity and informally. Overall, the children
+took advantage of the affordances of people, spaces and places to construct personal local
+environments, showing their engagement with many elements of Catling’s model. Whilst
+the children referred many of these elements of the local environment, certain elements
+were alluded to more than others; notably, the social environment appeared to be the
+most important element of the locality for the children. After people, the natural and built
+environment was considered important to the children, although the relative importance of
+these types of environment depended on the setting. The fact that children in rural areas used
+the built environment and children in urban areas used the natural environment revealed the
+value of varied environments for children, whatever setting they live in. Overall, Catling’s
+model provided a suitable model of the children’s uses of their locality, although in reality
+the elements of the environment varied for each child involved.
+    Children’s use of the environment, and their interactions with people, space and places,
+meant they had well-developed, broadly positive attitudes to their locality, with some
+children not wanting to change their locality at all. This finding brings into question the
+recurring assumption within the curriculum in Ireland and elsewhere of a need to “improve”
+the locality (DES/NCCA, 1999a, pp. 61, 84). Although this was very encouraging, there
+were also elements of their locality that children had extremely negative views about
+ranging from large-scale problems, through to smaller scale issues. In all areas, there was
+no audience for children’s articulate and considered points to make about what would
+improve their experiences in their locality. So, whilst in some aspects the children had
+dynamic geographies, as illustrated in the right of Catling’s model, in terms of empowered
+
+                                               S. Pike
+Table 11. Examples of children’s learning in their local environments.
+Examples of learning                 Cognitive development            Affective development
+Developed by children in        Knowledge of locality (S/H)   Responding and reacting to locality
+   study                                                       (H)
+                                Comprehension of local        Valuing locality (S/H)
+                                   processes (H)
+                                Evaluation of locality (S/H)  Expressing ideas and opinions (S/H)
+                                                              Appreciating the opinions of others
+                                                                (S/H)
+Potential for development       Understanding and analysis of Participation in local
+   (in school and at home)         local physical and human     decision-making
+                                   processes                  Receiving attitudes
+                                                              Organisation of values
+                                Evaluation of local physical  Resolving conflicts
+                                   and human processes        Appreciating diverse opinions
+                                                              Participation in local decision
+                                                                making
+                                                              Managing risks
+H  = largely at home; S = largely at school.
+Source: Adapted from Bloom (1976).
+citizens, they remained to the left of the diagram. The children’s interactions with their local
+environments meant that they had a connection with it, suggesting that any attempt to use
+the locality as a basis for geography education was likely to be successful. Again referring
+to Catling’s model, the children’s connection with their locality suggested that a move to
+the right of the model could enhance children’s experiences of geography education.
+     Children were in no doubt that experience in their locality resulted in learning that
+was relevant and useful both now and in the future, examples of which are outlined in
+Table 11. In terms of their activity, evidence across the data sources revealed that chil-
+dren enjoyed using their locality; they liked interacting with others, for example, whilst
+partaking in social and sporting activities. Such activity was valued by the children, mak-
+ing them feel part of their community and confident as a social actor in their locality. In
+this way, children’s interactions with their locality were very important, even if the chil-
+dren learned nothing from them. In fact, the overwhelming evidence from the project is
+that children’s use of the local environment contributed to different dimensions of their
+learning. Drawing on Bloom’s work on the dimensions of children’s learning, there was
+evidence of children’s cognitive development, including their knowledge (e.g. spatial aware-
+ness and place knowledge) and to a lesser extent their understanding (e.g. understanding
+of physical and human process) through their use of their local environments as out-
+lined in Table 12 (Bloom, 1976). However, a disparity between personally constructed
+learning and received learning in schools resulted in variations in children’s cognition in
+geography.
+     Despite the growing evidence for the importance of local experiences for children’s cur-
+rent and future lives (Hart, 1979; Holloway & Valentine, 2000b; Matthews, 1992; Spencer
+& Blades, 2006), there was evidence of a “discontinuity between home and school local
+experiences” (Catling, 2005, p. 325). Whilst children described how teachers made fre-
+quent reference to the locality, sustained learning on local topics was only experienced by
+one class of children. In fact, across all the classes, children spent more time in learning
+about distant localities than they did about their locality, despite curriculum requirements
+to balance place studies (DES/NCCA, 1999b). This pattern reflects previous findings of
+
+            International Research in Geographical and Environmental Education                  
+ Table 12. Encouraging use of the local environment by children.
+                                        Examples of activities
+ Formal                                                                  Informal
+ Fieldwork in school grounds                     Discussions of local examples when studying
+                                                    physical processes
+ Enquiries into local issues                     Discussions about leisure time
+ Projects on leisure time activities             Discussions on local issues affecting children
+ Fieldwork to local streams or rivers            Talking about experiences, e.g. our news
+                                                    activities, circle time.
+ Practical experiences of safe ways to cross     Discussion of fears over use of locality
+   roads in the locality
+ Role plays on local issues
+ Walking to school initiatives: 20-km speed
+   limits near schools, walking buses
+degrees of non-implementation of curricular in the RoI (Gash, 1985; INTO, 1995). This
+lack of implementation of both the 1971 CnB and the 1999 PSC in relation to the local
+environment in geography means that children such as those were lacking certain aspects
+of their geography education, by not learning key concepts in geography using familiar
+examples from their locality. Such planning in geography is recognised within both educa-
+tion theory and more practical guidance for learning in primary geography (Catling, 2003;
+Scoffham, 2006).
+     The recommendations arising from this project draw together some of the disparities
+described above to effectively help shift children’s experiences to the right of Catling’s
+model (2003, p. 172). The main recommendation arising from this project is to incorporate
+children’s local experiences into their learning experiences in schools. The children involved
+in this project had a wealth of knowledge, understanding, skills and attitudes in relation
+to the people, places and processes in their localities; however, as outlined above, this
+knowledge was not generally drawn upon and developed in school. As there is curriculum
+provision to do this with children of all ages in primary schools (DES/NCCA, 1999a,
+1999b, 1999c), this project reveals the capabilities of children to engage in their local
+environment and hence enhance their learning at school. In other contexts in which this is
+not the case, this study reveals the importance of local learning to be included in primary
+school geography curricular. There are a number of dimensions of children’s learning that
+could be encouraged in schools. First, as Catling suggests, learning about the locality can
+be approached formally, through studies of children’s localities and their experiences within
+them, and informally, through learning about the lives of children in terms of their own
+and adults’ geographies (Catling, 2005). Second, the local environment can be used to help
+children understand about other places, in comparative work or in using key concepts such
+as development and decision-making in geography. In this way, by understanding the world
+at hand in Catling’s model, the world beyond children’s direct experiences can also begin
+to make sense to the children. Such activity would contribute to the affective and cognitive
+domains of children’s learning, as outlined in Table 12. Children’s use of the locality can
+also be fostered in school beyond school-based work. For example, teachers could act on
+suggestions made by children, or in their own classrooms and communities. The benefits
+of developing such content and methods specifically in school geography in Irish and other
+schools would be numerous. First, such practice would bring geography experiences in
+school more into line with theoretical and practical ideas about what are positive experiences
+for children in geography. Second, it would mean that geography in primary schools was
+
+
+                                            S. Pike
+more positive and challenging for children. For example, if teachers use the locality for
+learning in primary geography, much of the content that is covered can then be applied to
+other localities; making sense of the local can help children understand wider patterns and
+processes in the world. Furthermore, many of the skills learnt in primary school, such as
+decision-making and fieldwork activities, can be built on later in geographical experiences.
+Third, children would enjoy geography more, as evidence from the children’s initial reaction
+to this project and elsewhere is that geography is often not particularly popular!
+    The second recommendation from this project is the promotion and implementation of
+children’s participation in decision-making in local communities. Children in this project
+had important points to make about their localities, including changes for themselves and
+for others. Most ideas were relatively easy to achieve but would not necessarily have been
+thought of by adults, reflecting previous findings (Chawla, 2002; Hart, 1992). As there
+is evidence that when children’s ideas are heard and acted upon the results are positive,
+children having a say in the geography of their locality makes sense. Therefore, the second
+recommendation from this project is that children’s participation should be mainstreamed,
+through children’s participative initiatives such as Dáil na nÓg (DnÓ) (national youth
+parliament) and Dáil na bPáistı́ (DnP).
+    The third recommendation from this project is the development of research with children
+about their local environments in a further range of contexts. Throughout the project, from
+reviewing the literature to working with children, it was evident that there were many
+avenues that this research could have taken, in terms of the research topics and the research
+methods and techniques.
+    In conclusion, like others involved in geography education (Catling, 2003; Catling &
+Willy, 2009; Scoffham, 2006), this project has confirmed my belief that the creative use
+of the local environment opens up a wealth of opportunities for children’s learning in
+geography and that this learning should be used beyond school for the benefits of local
+communities, but most of all for the children themselves.
+Acknowledgements
+This project was made possible by the children who took part; so, the author wishes to thank all the
+children involved for their enormous contribution to the project. She also wishes to thank the teachers
+who facilitated the project in their classroom. This project was partially funded by the Research
+Committee of St. Patrick’s College, to whom the author also expresses her gratitude. The author
+wishes to thank Janette Elwood of Queen’s University, Belfast and Simon Catling of Oxford Brookes
+University for their support in this project.
+
+
