@@ -9,7 +9,7 @@ The extraction process was tested on 11 articles from various internet sources (
 
 The annotation process was carried out using Stanford CoreNLP 4.2.0 jar files through the CRAN package "coreNLP". Text converted to character vectors of length one via CRAN package "readr". The overall annotation process involves the use of the R packages "rJava" and "NLP" also. A ready to use annotation object can be found in the file annotation_example.RData object. Computation time of an annotation process varies according to the size of the text. Required time for a text of about 1300 tokens is a few seconds for the machine described below.
 
-Folder "GEOTHNK network" includes a directed graph of spatial concepts alongside a visualization example through the package "visNetwork".
+Folder "Ontology" includes a subset of our directed graph of spatial concepts alongside a visualization example through the package "visNetwork".
 
 File "Extraction process.R" includes a minimum working R process in order to detect and extract GEOTHNK network spatial concepts from each text.
 
@@ -23,6 +23,8 @@ The process is based on the following packages : <br/>
  - Hadley Wickham, Romain François, Lionel Henry and Kirill Müller (2021). dplyr: A Grammar of Data Manipulation. R package version 1.0.5. https://CRAN.R-project.org/package=dplyr <br/>
  - Hadley Wickham (2019). stringr: Simple, Consistent Wrappers for Common String Operations. R package version 1.4.0. https://CRAN.R-project.org/package=stringr <br/>
  - Jan Wijffels (2020). udpipe: Tokenization, Parts of Speech Tagging, Lemmatization and Dependency Parsing with the 'UDPipe' 'NLP' Toolkit. R package version 0.8.5. https://CRAN.R-project.org/package=udpipe <br/>
+ - Almende B.V., Benoit Thieurmel and Titouan Robert (2019). visNetwork: Network Visualization using 'vis.js' Library. R package version 2.0.9.
+  https://CRAN.R-project.org/package=visNetwork <br/>
 
 
 Session info :<br/>
