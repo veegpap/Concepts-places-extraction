@@ -4,7 +4,7 @@ library(dplyr)
 library(stringr)
 library(udpipe)
 
-# located in Various_articles/R_data_articles_annotated/
+# load the annotation dataframe from the article "The island of Aphrodite’s ancestors"
 load("annotation_example.RData")
 
 # specify short negation of %in% 
@@ -32,20 +32,19 @@ nm.loc <- function(x) {
   unique(s)
 }
 
-# extracted locations fron coreNLP Named Entity Regognition process from the article "The island of Aphrodite’s ancestors"
+# extracted locations from coreNLP Named Entity Regognition process from the article "The island of Aphrodite’s ancestors"
+# Note that coreNLP is able to extract fine grain toponyms for this Greek Island
 gsub(" ,", ", ", paste(nm.loc(annie_example), sep = ",", collapse = ","))
 
 # detect the presence of certain names inside text. 
 nodes <- c("island","geometry","equator","longitude","waterfall","time","capital","path","sea","beach","coastline","region","earthquake","line")
 
-#nodes$name <- trimws(nodes$name, "both")
-#cnspts <- tolower(nodes$name)
 cnspts <- tolower(nodes)
 cnspts <- unique(cnspts)
 cnspts <- paste("\\b", cnspts, "\\b", sep = "")
 my.textis <- annie_example
-my.textis <- my.textis[my.textis$POS %nin% c("VB","VBD","VBG","VBN","VBP","VBZ","JJ","JJR","JJS"),]
-my.textis <- paste(my.textis$lemma, sep = " ", collapse = " ")
+my.textis <- my.textis[my.textis$POS %nin% c("VB","VBD","VBG","VBN","VBP","VBZ","JJ","JJR","JJS"),]  # Exclude verbs and adjectives
+my.textis <- paste(my.textis$lemma, sep = " ", collapse = " ")  
 my.textis <- gsub('[[:punct:] ]+'," ", my.textis)
 cavav <- sapply(cnspts, gregexpr, my.textis)
 hav <- unlist(cavav)
@@ -53,7 +52,6 @@ jkav <- data.frame(hav)
 myDfav = data.frame(node = names(hav), indx = hav)
 myfinDFav <- subset(myDfav, indx > 0)
 myfinDFav$node <- gsub('[0-9]+', '', myfinDFav$node)
-# remove first 2 and last 2 characters from all the words
 myfinDFav$node <- gsub("^.{2}|.{2}$", "", myfinDFav$node)
 myfinDFav <- myfinDFav[,1]
 spitsaav <- myfinDFav %>% table
