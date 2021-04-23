@@ -26,6 +26,8 @@ The process is based on the following packages : <br/>
 
 
 Session info :<br/>
+Memory : 15,5 GiB <br/>
+Processor : Intel® Core™ i5-8400 CPU @ 2.80GHz × 6 <br/>
 R version 4.0.5 (2021-03-31)<br/>
 Platform: x86_64-pc-linux-gnu (64-bit)<br/>
 Running under: Ubuntu 20.04.2 LTS<br/>
