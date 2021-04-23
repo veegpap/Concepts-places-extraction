@@ -14,6 +14,7 @@ Folder "GEOTHNK network" includes a directed graph of spatial concepts alongside
 File "Extraction process.R" includes a minimum working R process in order to detect and extract GEOTHNK network spatial concepts from each text.
 
 The process is based on the following packages : <br/>
+ -  R Core Team (2021). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/. <br/>
  - Hadley Wickham and Jim Hester (2020). readr: Read Rectangular Text Data. R package version 1.4.0. https://CRAN.R-project.org/package=readr <br/>
  - Taylor Arnold and Lauren Tilton (2016). coreNLP: Wrappers Around Stanford CoreNLP Tools. R package version 0.4-2. https://CRAN.R-project.org/package=coreNLP <br/>
  - Simon Urbanek (2020). rJava: Low-Level R to Java Interface. R package version 0.9-13. https://CRAN.R-project.org/package=rJava <br/>
