@@ -1,5 +1,6 @@
 # Concepts-places-extraction
 
+![image](https://user-images.githubusercontent.com/22099632/115962257-2057de80-a523-11eb-9f83-ec19dfa867fd.png)
 
 The application was developed to explore spatial concept extraction from unstructured text. It was built using shiny and R. Spatial concepts are organized as a directed graph.
 
